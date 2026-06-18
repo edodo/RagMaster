@@ -2,5 +2,4 @@
 .env
 
 # unsloth path
-unsloth/workspace/
-unsloth/hf_cache/
+.cache
